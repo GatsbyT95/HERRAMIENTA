@@ -1,0 +1,24 @@
+{
+    "programas_frecuentes": [
+        {
+            "nombre": "Google Chrome (MSI / Empresa)",
+            "argumentos": "/qn /norestart"
+        },
+        {
+            "nombre": "7-Zip (Instalador EXE)",
+            "argumentos": "/S"
+        },
+        {
+            "nombre": "RustDesk",
+            "argumentos": "--silent-install"
+        },
+        {
+            "nombre": "AnyDesk",
+            "argumentos": "--install --silent --accept-licenses"
+        },
+        {
+            "nombre": "TeamViewer",
+            "argumentos": "/S /v\"/qn /norestart\""
+        }
+    ]
+}
